@@ -1,2 +1,3 @@
 # Todo_Apllication
- A web apllication to add todo list
+Django-ToDo-App-with-PostgreSQL
+ A web apllication to add todo list 
